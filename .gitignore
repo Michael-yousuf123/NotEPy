@@ -162,6 +162,5 @@ cython_debug/
 #.idea/
 **data/*/
 app/
-**.ipynb
 **.zip
 **data_aug/*/
