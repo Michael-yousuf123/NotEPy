@@ -164,3 +164,4 @@ cython_debug/
 app/
 **.zip
 **data_aug/*/
+.python-version
